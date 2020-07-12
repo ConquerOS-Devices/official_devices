@@ -1,0 +1,44 @@
+{
+
+"mido": {
+	"fullname": "Xiaomi Redmi Note 4/4X",
+	"maintainer": "HeroBuxx",
+	"xdathread": "",
+	"filename": "ConquerOS_X-3.3-mido-20200710-1757-OFFICIAL.zip",
+	"buildate": "20200710-1757",
+	"buildsize": "574681413",
+	"id": "1",
+	"download": "https://sourceforge.net/projects/conqueros/files/ten/stable/mido/ConquerOS_X-3.3-mido-20200710-1757-OFFICIAL.zip/download",
+	"downloadfolder": "https://sourceforge.net/projects/conqueros/files/ten/stable/mido",
+	"mirrorlink": "",
+	"changelog": ""
+},
+
+"X00T": {
+	"fullname": "Xiaomi Redmi 5",
+	"maintainer": "Pulkit077",
+	"xdathread": "",
+	"filename": "ConquerOS_X-3.3-rosy-20200711-1925-OFFICIAL.zip",
+	"buildate": "20200711-1925",
+	"buildsize": "580400738",
+	"id": "1",
+	"download": "https://sourceforge.net/projects/conqueros/files/ten/stable/rosy/ConquerOS_X-3.3-rosy-20200711-1925-OFFICIAL.zip/download",
+	"downloadfolder": "https://sourceforge.net/projects/conqueros/files/ten/stable/rosy",
+	"mirrorlink": "",
+	"changelog": ""
+},
+
+"whyred": {
+	"fullname": "Xiaomi Redmi 7",
+	"maintainer": "TheAcanthite",
+	"xdathread": "",
+	"filename": "ConquerOS_X-3.3-onclite-20200711-1746-OFFICIAL.zip",
+	"buildate": "20200711-1746",
+	"buildsize": "723135941",
+	"id": "1",
+	"download": "https://sourceforge.net/projects/conqueros/files/ten/stable/onclite/ConquerOS_X-3.3-onclite-20200711-1746-OFFICIAL.zip/download",
+	"downloadfolder": "https://sourceforge.net/projects/conqueros/files/ten/stable/onclite",
+	"mirrorlink": "",
+	"changelog": ""
+}
+}
