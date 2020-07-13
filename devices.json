@@ -2,8 +2,8 @@
 
 "mido": {
 	"fullname": "Xiaomi Redmi Note 4/4X",
-	"maintainer": "HeroBuxx",
-	"xdathread": "",
+	"maintainer": "Alif Fathur",
+	"xdathread": "https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-conqueros-3-1-redmi-note-4-4x-mido-t4033339",
 	"filename": "ConquerOS_X-3.3-mido-20200710-1757-OFFICIAL.zip",
 	"buildate": "20200710-1757",
 	"buildsize": "574681413",
@@ -16,7 +16,7 @@
 
 "rosy": {
 	"fullname": "Xiaomi Redmi 5",
-	"maintainer": "Pulkit077",
+	"maintainer": "Pulkit Agarwal",
 	"xdathread": "",
 	"filename": "ConquerOS_X-3.3-rosy-20200711-1925-OFFICIAL.zip",
 	"buildate": "20200711-1925",
@@ -30,14 +30,28 @@
 
 "onclite": {
 	"fullname": "Xiaomi Redmi 7",
-	"maintainer": "TheAcanthite",
-	"xdathread": "",
+	"maintainer": "Gagan Malvi",
+	"xdathread": "https://forum.xda-developers.com/redmi-7/development/10-0-conqueros-t4131353",
 	"filename": "ConquerOS_X-3.3-onclite-20200711-1746-OFFICIAL.zip",
 	"buildate": "20200711-1746",
 	"buildsize": "723135941",
 	"id": "1",
 	"download": "https://sourceforge.net/projects/conqueros/files/ten/stable/onclite/ConquerOS_X-3.3-onclite-20200711-1746-OFFICIAL.zip/download",
 	"downloadfolder": "https://sourceforge.net/projects/conqueros/files/ten/stable/onclite",
+	"mirrorlink": "",
+	"changelog": ""
+},
+	
+	"onclite": {
+	"fullname": "Xiaomi Redmi 5A",
+	"maintainer": "Angga Alfian",
+	"xdathread": "",
+	"filename": "ConquerOS_X-3.3-riva-20200713-0727-OFFICIAL.zip",
+	"buildate": "20200713-0727",
+	"buildsize": "543708553",
+	"id": "1",
+	"download": "https://sourceforge.net/projects/conqueros/files/ten/stable/riva/ConquerOS_X-3.3-riva-20200713-0727-OFFICIAL.zip/download",
+	"downloadfolder": "https://sourceforge.net/projects/conqueros/files/ten/stable/riva",
 	"mirrorlink": "",
 	"changelog": ""
 }
