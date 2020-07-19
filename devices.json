@@ -25,7 +25,7 @@
 	"download": "https://sourceforge.net/projects/conqueros/files/ten/stable/rosy/ConquerOS_X-3.4-rosy-20200719-0826-OFFICIAL.zip/download",
 	"downloadfolder": "https://sourceforge.net/projects/conqueros/files/ten/stable/rosy",
 	"mirrorlink": "",
-	"changelog": ""
+	"changelog": "https://github.com/ConquerOS-Devices/ota/blob/master/changelog/rosy.txt"
 },
 
 "onclite": {
