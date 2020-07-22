@@ -54,5 +54,19 @@
 	"downloadfolder": "https://sourceforge.net/projects/conqueros/files/ten/stable/riva",
 	"mirrorlink": "",
 	"changelog": ""
+},
+	
+"twolip": {
+	"fullname": "Xiaomi Redmi Note 6 Pro",
+	"maintainer": "Alif Fathur",
+	"xdathread": "https://forum.xda-developers.com/redmi-note-6-pro/development/rom-conqueros-3-4-redmi-note-6-pro-t4136713",
+	"filename": "ConquerOS_X-3.4-twolip-20200722-1909-OFFICIAL.zip",
+	"buildate": "20200722-1909",
+	"buildsize": "1595217134",
+	"id": "3ce91af5b8781cb12fa72a24453abfdd",
+	"download": "https://sourceforge.net/projects/conqueros/files/ten/stable/tulip/ConquerOS_X-3.4-twolip-20200722-1909-OFFICIAL.zip/download",
+	"downloadfolder": "https://sourceforge.net/projects/conqueros/files/ten/stable/tulip",
+	"mirrorlink": "",
+	"changelog": ""
 }
 }
