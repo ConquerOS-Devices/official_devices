@@ -68,5 +68,19 @@
 	"downloadfolder": "https://sourceforge.net/projects/conqueros/files/ten/stable/tulip",
 	"mirrorlink": "",
 	"changelog": ""
+},
+
+"platina": {
+	"fullname": "Xiaomi Mi 8 Lite",
+	"maintainer": "Hanif Ardhani",
+	"xdathread": "https://forum.xda-developers.com/mi-8-Lite/development/rom-conqueros-3-4-mi-8-lite-t4137807",
+	"filename": "ConquerOS_X-3.4-platina-20200724-0502-OFFICIAL.zip",
+	"buildate": "20200724-0502",
+	"buildsize": "788116000",
+	"id": "d348200d2b6cd49980ab624e8d2535ce",
+	"download": "https://www.pling.com/p/1406045/",
+	"downloadfolder": "https://sourceforge.net/projects/conqueros/files/ten/stable/tulip",
+	"mirrorlink": "",
+	"changelog": ""
 }
 }
