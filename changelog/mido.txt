@@ -1,0 +1,6 @@
+# 3.6 Ernstig
+- Enabled QTI Perf
+- Disable interaction boost
+- Build with SDClang
+- Now Enforcing
+- Some stability enhacement
