@@ -4,8 +4,8 @@
 	"fullname": "Xiaomi Redmi Note 4/4X",
 	"maintainer": "Alif Fathur",
 	"xdathread": "https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-conqueros-3-1-redmi-note-4-4x-mido-t4033339",
-	"filename": "ConquerOS_X-3.5-mido-20200816-1722-OFFICIAL.zip",
-	"buildate": "20200816-1722",
+	"filename": "ConquerOS_X-3.6-mido-20200829-2248-OFFICIAL.zip",
+	"buildate": "20200829-2248",
 	"buildsize": "580844751",
 	"id": "1",
 	"download": "https://www.pling.com/p/1406045/",
@@ -99,7 +99,7 @@
 },
 
 "lavender": {
-	"fullname": "Xiaomi Redmi Note 7",
+	"fullname": "Xiaomi Redmi Note 7/7S",
 	"maintainer": "Murad, Sakthivel",
 	"xdathread": "",
 	"filename": "ConquerOS_X-3.5-lavender-20200810-2144-OFFICIAL.zip",
@@ -108,6 +108,20 @@
 	"id": "1",
 	"download": "https://www.pling.com/p/1409378/",
 	"downloadfolder": "https://sourceforge.net/projects/conqueros/files/ten/beta/lavender/",
+	"mirrorlink": "",
+	"changelog": ""
+},
+	
+"violet": {
+	"fullname": "Xiaomi Redmi Note 7 Pro",
+	"maintainer": "Dheeresh",
+	"xdathread": "",
+	"filename": "ConquerOS_X-3.6-violet-20200831-0915-OFFICIAL.zip",
+	"buildate": "20200831-0915",
+	"buildsize": "839192621,",
+	"id": "1",
+	"download": "https://www.pling.com/p/1417154/",
+	"downloadfolder": "https://sourceforge.net/projects/conqueros/files/ten/beta/violet/",
 	"mirrorlink": "",
 	"changelog": ""
 }
