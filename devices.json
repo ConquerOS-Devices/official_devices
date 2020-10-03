@@ -18,10 +18,10 @@
 	"fullname": "Xiaomi Redmi 5",
 	"maintainer": "Pulkit Agarwal",
 	"xdathread": "",
-	"filename": "ConquerOS_X-3.5-rosy-20200810-1517-OFFICIAL.zip",
-	"buildate": "20200810-1517",
-	"buildsize": "664549900,",
-	"id": "833dea3cc65307fa33a355efefedb500",
+	"filename": "ConquerOS_X-3.6-rosy-20201003-1919-OFFICIAL.zip",
+	"buildate": "20201003-1919",
+	"buildsize": "681732944,",
+	"id": "16b1e72354376a253a2774f4a10d6014",
 	"download": "https://www.pling.com/p/1409396/",
 	"downloadfolder": "https://sourceforge.net/projects/conqueros/files/ten/stable/rosy",
 	"mirrorlink": "",
@@ -41,7 +41,7 @@
 	"mirrorlink": "",
 	"changelog": ""
 },
-	
+
 "riva": {
 	"fullname": "Xiaomi Redmi 5A",
 	"maintainer": "Angga Alfian",
@@ -55,7 +55,7 @@
 	"mirrorlink": "",
 	"changelog": ""
 },
-	
+
 "tulip": {
 	"fullname": "Xiaomi Redmi Note 6 Pro",
 	"maintainer": "Alif Fathur",
@@ -83,7 +83,7 @@
 	"mirrorlink": "",
 	"changelog": ""
 },
-	
+
 "platina": {
 	"fullname": "Xiaomi Mi 8 Lite",
 	"maintainer": "Hanif Ardhani",
@@ -111,7 +111,7 @@
 	"mirrorlink": "",
 	"changelog": ""
 },
-	
+
 "violet": {
 	"fullname": "Xiaomi Redmi Note 7 Pro",
 	"maintainer": "Dheeresh",

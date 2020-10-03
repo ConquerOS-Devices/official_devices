@@ -1,30 +1,19 @@
-Update - 2020/07/19
+Update - 2020/10/03
 - Device Side : 
- • fixed typo in a property 
- • disable sched load on interactive 
- • updated post_boost_script from LA.UM.8.6.r1-04700-89xx.0
- • switched to CarrierSettings from Pixel4XL instead of CarrierConfig
- • back to stock thermal config 
- • Upstreamed kernel to LA.UM.8.6.r1-04700-89xx.0
- • disabled surfaceflinger backpressure
+ • based on rebased trees from msm8953-common including all changes till now
+ • rest track from github org
 
 - Source Side : 
- • Introducing Theme Manager
- • Added Network Restrictions
- • Added Per-App Data Restriction
- • Added Signature Spoofing
- • Added Primary option support
- • Added ConquerDark Primary theme
- • Added Many new Accent Colors
- • Added new icon shape from R
- • Added Date for Typography Clock Face
- • Added switch to hide Smart Reply
- • Added HW Button Backlight support
- • Added option to disable Media Artwork on Lock screen
- • Added Adaptive Playback
- • Use Dark Mode as default
- • Some UI cleanups
- • Removed unused stuff
- • Switch to OPLauncher as default
- • Keyguard UI Improvements
- • QS Panel Improvement
+ • Updated Longshot from PE
+ • Added RGB Accent Picker
+ • Added Longpress power to enable Flashlight from lockscreen
+ • Re-enabled Screen recorder
+ • Implemented SmartSpace
+ • Bring back O' minutes for TypeClock
+ • Improved haptics and vibrations
+ • Added AptX Adaptive
+ • Updated Drawables
+ • Some keyguard fixes
+ • Some system improvments and fixes
+ • Improved faceunlock from PE
+ • Added App lock from AOSPA
